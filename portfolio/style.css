@@ -189,4 +189,14 @@ html {
     display: inline-block;
     text-decoration: none;
     color: #000;
+    border-radius: 30px;
+    padding: 10px 20px;
+    border: 1px solid #000;
+    margin-top: 30px;
+    transition: .5s;
+}
+
+#sobremi .sobremi a:hover {
+    background-color: #ff5080;
+    color: #fff
 }
