@@ -274,8 +274,8 @@ html {
 
 /* SECCION ESTILOS HABILIDADES */
 
-.contenido-skills {
-    background: linear-gradient(#eb5a5acc, rgba(33, 16, 16, 8)), url("img/studio3.jpg");
+.contenedor-skills {
+    background: linear-gradient(#eb5a5acc, rgba(33, 16, 16, .8)), url("img/studio3.jpg");
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-size: cover;
@@ -283,3 +283,10 @@ html {
     padding: 100px 0;
     text-align: center;
 }
+
+.contenedor-skills .skills {
+    max-width: 600px;
+    margin: 30px auto;
+}
+
+.contenedor-skills
