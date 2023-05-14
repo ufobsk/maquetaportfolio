@@ -252,3 +252,17 @@ html {
     padding: 20px;
     margin-bottom: 25px;
 }
+
+#servicios .fila .servicio hr {
+    width: 30%;
+    margin: auto;
+    color: #000;
+    margin-bottom: 25px;
+}
+
+#servicios .fila .servicio ul {
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+}
