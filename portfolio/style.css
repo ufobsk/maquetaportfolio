@@ -12,7 +12,7 @@ html {
 }
 
 #inicio {
-    background: linear-gradient(220.55deg, #00B960 0%, #00552C 100%), url(img/studio3.jpg);
+    background: linear-gradient(rgba(0,0,0,.7), rgba(0,0,0,.7)), url("img/anotherbsk.jpg");
     background-size: cover;
     background-position: center center;
     height: 100vh;
@@ -274,3 +274,12 @@ html {
 
 /* SECCION ESTILOS HABILIDADES */
 
+.contenido-skills {
+    background: linear-gradient(#eb5a5acc, rgba(33, 16, 16, 8)), url("img/studio3.jpg");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    padding: 100px 0;
+    text-align: center;
+}
