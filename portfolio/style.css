@@ -473,3 +473,18 @@ html {
 #contacto .contenedor-form .input-full {
     width: 100%;
 }
+
+#contacto .btn-enviar {
+    display: block;
+    margin: auto;
+    cursor: pointer;
+    transition: .5s;
+    padding: 10px 15px;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+#contacto .btn-enviar:hover {
+    background-color: #ff5080;
+    color: #fff;
+}
