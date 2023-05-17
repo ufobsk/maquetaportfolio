@@ -505,3 +505,21 @@ footer a {
     margin: 5px;
     font-size: 26px;
 }
+
+/* SECCION RESPONSIVE */
+
+@media screen and (max-width: 800px) {
+    .redes {
+        display: none;
+    }
+
+    nav {
+        display: none;
+    }
+
+    nav.responsive {
+        display: block;
+        background-color: rgba(0, 0, 0, .8);
+        width: 100%;
+    }
+}
