@@ -1,6 +1,6 @@
 // Funcion que muestra el menu responsive
 
-function responsiveMenu () {
+function responsiveMenu() {
     let x = documen.getElementById("nav");
     if (x.className===""){
         x.className = "responsive";
