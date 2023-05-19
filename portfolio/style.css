@@ -561,4 +561,9 @@ footer a {
     #sobremi .sobremi .titulo-seccion {
         text-align: center;
     }
+
+    #sobremi .sobremi h2 {
+        font-size: 25px;
+        text-align: center;
+    }
 }
