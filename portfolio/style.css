@@ -578,4 +578,20 @@ footer a {
     #servicios .fila .servicio {
         margin: 10px auto;
     }
+
+    #contenedor-skills {
+        padding: 50px 20px;
+    }
+
+    #portfolio {
+        padding: 50px 0;
+    }
+
+    #portfolio .fila {
+        display: block;
+    }
+
+    #porfolio .fila .proyecto {
+        margin: 10px auto;
+    }
 }
