@@ -557,4 +557,8 @@ footer a {
     #sobremi .contenedor-foto img {
         padding: 8px;
     }
+
+    #sobremi .sobremi .titulo-seccion {
+        text-align: center;
+    }
 }
